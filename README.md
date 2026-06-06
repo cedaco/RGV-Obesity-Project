@@ -30,12 +30,12 @@ https://data.cdc.gov/resource/i46a-9kgh.csv?$limit=50000
 No API key required.
 
 ## Requirements
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
+- scikit-learn
 
 ## Usage
 Open rgv_obesity_analysis.ipynb in Google Colab and run all cells sequentially. No local file uploads required — data is fetched directly from the CDC API.
