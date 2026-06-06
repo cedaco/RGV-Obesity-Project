@@ -38,7 +38,7 @@ No API key required.
 - scikit-learn
 
 ## Usage
-Open rgv_obesity_analysis.ipynb in Google Colab and run all cells sequentially. No local file uploads required — data is fetched directly from the CDC API.
+Hidalgo_Obesity_Project.ipynb in Google Colab and run all cells sequentially. No local file uploads required — data is fetched directly from the CDC API.
 
 ## Report
 A full PDF report suitable for clinical and public health audiences is included in this repository, covering methodology, results, clinical recommendations, and limitations in great depth.
