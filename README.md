@@ -26,6 +26,7 @@ This project uses CDC PLACES 2024 county-level data to investigate the structura
 ## Data Source
 CDC PLACES 2024 County Release — accessed via public API:
 https://data.cdc.gov/resource/i46a-9kgh.csv?$limit=50000
+
 No API key required.
 
 ## Requirements
